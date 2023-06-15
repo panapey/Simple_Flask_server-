@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 Для запуска проекта выполните команду:
 ```
-python app.py
+python main.py
 ```
 После этого вы сможете обращаться к API по адресу http://localhost:5000/.
 
