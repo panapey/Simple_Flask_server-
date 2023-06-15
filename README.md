@@ -20,10 +20,6 @@
 pip install -r requirements.txt
 ```
 
-Также вам нужно создать папку для хранения загруженных файлов и указать ее путь в переменной окружения UPLOAD_FOLDER. Например:
-```
-export UPLOAD_FOLDER=/home/user/uploads
-```
 Для запуска проекта выполните команду:
 ```
 python app.py
